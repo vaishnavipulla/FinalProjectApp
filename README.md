@@ -1,4 +1,4 @@
-Final Project App
+Final Project App 
 
 Author
 
@@ -6,8 +6,7 @@ Vaishnavi Pulla
 
 Description
 
-This project is a Jupyter Notebook designed to analyze and visualize data from a CSV file. The notebook includes data preprocessing, analysis, and visualization steps to extract meaningful insights from the dataset.
-
+This project is an app that analyzes the Indian Liver Patient Dataset (ILPD) to identify patterns in liver disease, detect correlations between medical attributes, and highlight anomalies. It enables users to explore relationships between features like age, liver enzyme levels, and bilirubin concentrations through interactive filtering and visualizations.
 Prerequisites
 
 Before running the notebook, ensure you have the following installed:
